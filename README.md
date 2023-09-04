@@ -1,5 +1,4 @@
-# Codeix (sale)
+# Codeix
 Script: Free
-Download: Free
-Price on official website: 00,00€ (sale price)
+Price on official website: 00,00€
 Official website: http://codeix.rf.gd/scripts
